@@ -1,0 +1,6 @@
+.cproject
+.project
+.settings
+bin
+cscope*
+*.o
