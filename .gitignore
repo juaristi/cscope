@@ -4,3 +4,4 @@
 bin
 cscope*
 *.o
+src/.deps
